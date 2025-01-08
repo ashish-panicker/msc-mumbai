@@ -81,6 +81,8 @@ Analyzing algorithms helps determine whether an algorithm will perform efficient
 ### 5. Greedy Algorithms:
 - **Huffman Coding**: A compression algorithm that assigns variable-length codes to characters based on their frequency.
 
-## Conclusion
+## Overview
 
 Algorithms are fundamental to the world of computing, enabling everything from basic calculations to complex artificial intelligence systems. Understanding the various types of algorithms and how to analyze them is crucial for designing efficient and effective software. The study of algorithms not only encompasses theoretical knowledge but also practical application, where selecting the right algorithm for a problem can lead to significant improvements in performance.
+
+
